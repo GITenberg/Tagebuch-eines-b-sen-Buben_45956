@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9505
     wikipedia: http://en.wikipedia.org/wiki/Metta_Victoria_Fuller_Victor
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45956#Tagebuch-eines-b-sen-Buben
 gutenberg_issued: '2014-06-13'
 gutenberg_type: Text
 identifiers:
