@@ -1,0 +1,40 @@
+_repo: Tagebuch-eines-b-sen-Buben_45956
+_version: 0.1.0
+alternative_title: A bad boy's diary. German
+covers:
+- cover_type: archival
+  image_path: 45956-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Victor, Metta Victoria Fuller
+    aliases:
+    - Gray, Walter T.
+    - Register, Seeley
+    - Kennedy, Rose
+    - Peabody, Mark, Mrs.
+    - Victor, Metta V.
+    - Regester, Seeley
+    - Fuller, Metta Victoria
+    - Victor, M. V. (Metta Victoria)
+    - James, Orrin, Mrs.
+    birthdate: 1831
+    deathdate: 1885
+    gutenberg_agent_id: '9505'
+    url: http://www.gutenberg.org/2009/agents/9505
+    wikipedia: http://en.wikipedia.org/wiki/Metta_Victoria_Fuller_Victor
+description: ''
+gutenberg_issued: '2014-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45956'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American wit and humor'
+- !lcsh 'Diary fiction'
+- !lcsh 'Boys -- Fiction'
+- !lcc 'PS'
+title: Tagebuch eines bösen Buben
+url: http://www.gutenberg.org/ebooks/45956
